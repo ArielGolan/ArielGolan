@@ -1,4 +1,6 @@
-[![MasterHead](https://i.postimg.cc/t4jfKD32/gitHub.jpg)](https://postimg.cc/XpsQFfDC)
+[![MasterHead](https://i.postimg.cc/qRBT1q2r/git-Hub-white.jpg)](https://postimg.cc/GBfV2cMg)
+
+
 <h1 align="center">Hi 👋, I'm Ariel Golan</h1>
 <h3 align="center">iOS developer and designer</h3>
 <img align="right" alt="Coding" width="400" src=https://assets.justinmind.com/wp-content/uploads/2018/01/xore-solar-system-app-UI-animations-justinmind.gif>
