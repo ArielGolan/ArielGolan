@@ -1,4 +1,5 @@
-[![MasterHead](https://i.postimg.cc/qRBT1q2r/git-Hub-white.jpg)](https://postimg.cc/GBfV2cMg)
+
+[![MasterHead](https://i.postimg.cc/xTQ552DJ/gitHub-3.jpg)](https://postimg.cc/dDWGQg0w)
 
 
 <h1 align="center">Hi 👋, I'm Ariel Golan</h1>
